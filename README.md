@@ -1,3 +1,5 @@
 # Kokoa Clone 2020 Update
 
-CSS got so much better than past!
+HTML & CSS got so much better than past!
+
+I wanna go 'Kakao'
