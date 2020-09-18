@@ -1,4 +1,8 @@
 .user-component {
+  display: flex;
+}
+
+.user-component {
   justify-content: space-between;
 }
 
@@ -17,11 +21,10 @@
 
 .user-component__title {
   font-weight: 600;
-  font-size: 22px;
 }
 
 .user-component__subtitle {
-  margin-top: 8px;
+  margin-top: 5px;
   font-size: 17px;
   color: rgba(0, 0, 0, 0.5);
 }
